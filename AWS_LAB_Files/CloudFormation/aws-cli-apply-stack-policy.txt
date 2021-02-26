@@ -1,0 +1,2 @@
+Applying stack policy to Existing CloudFormation Stack:
+aws cloudformation set-stack-policy --stack-name ENGAWSB06-STACK-1 --stack-policy-body file://stack-policy.json
